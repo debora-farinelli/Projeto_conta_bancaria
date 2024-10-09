@@ -166,8 +166,7 @@ def cofre_digital():
 
     print('------------------------------------------------------------')
     print('MACK BANK – COFRE DIGITAL')
-    print('Neste momento você pode depositar o valor desejado no cofre digital, porém não poderá')
-    print('retirar o valor depositado até 3 dias após o depósito.')
+    print('Neste momento você pode depositar o valor desejado no cofre digital, porém não poderá retirar o valor depositado até 3 dias após o depósito.')
 
     valor_deposito_cofre = float(input('QUAL O VALOR DO DEPÓSITO? R$ '))  # Solicitando o valor do depósito no cofre digital
 
